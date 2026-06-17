@@ -35,8 +35,9 @@ Smart Soil incorporates responsible AI principles to ensure ethical, fair, and t
  **1.** Fertilizer waste reduction:30-40%\
  **2.** Increased crop yield\
  **3.** Sustainable agricultural practices aligned with SDG2 and SDG12\
- **4.** Bees, butterflies, and healthy forests are essential to farming. Preserving biodiversity helps ensure better harvests and ecological balance.
+ **4.** Bees, butterflies, and healthy forests are essential to farming. Preserving biodiversity helps ensure better harvests and             ecological balance.
 
+**How Websites Look Like**
 
 
 
