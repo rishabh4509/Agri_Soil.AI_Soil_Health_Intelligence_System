@@ -17,9 +17,9 @@ Each field gets its own fertilizer prescription--soil profile in, trageted mix o
        **key feature**\
             1. **Input:** Soil types, moisture level, and crop data collected from the field.\
             2. **Process:** AI maps nutrient gaps and moisture patterns across soil profiles.\
-            3. **Output:** Field specific fertilizer prescription sent directly to the farmer.\
-### Target Users\
-Agricultural soil health intelligence systems in India act as data-driven **decision-support platforms.**\ 
+            3. **Output:** Field specific fertilizer prescription sent directly to the farmer.
+### Target Users
+Agricultural soil health intelligence systems in India act as data-driven **decision-support platforms.** \
 These tools serve different primary needs depending on the end-user\
 1.**Smallholder Farmers:** Smallholder farmers require simple, highly accessible tools to minimize input costs and maximize yield.\
          **User Interface:** Mobile applications (often with offline capabilities) or toll-free Interactive Voice Response (IVR)                   systems.\
