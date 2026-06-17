@@ -24,6 +24,7 @@ These tools serve different primary needs depending on the end-user\
 
 1.**Smallholder Farmers:** Smallholder farmers require simple, highly accessible tools to minimize input costs and maximize yield.\
          **User Interface:** Mobile applications (often with offline capabilities) or toll-free Interactive Voice Response (IVR)                   systems.\
+         
 2.**Agricultural Extension Officers:** Extension officers (such as Krishi Vigyan Kendra staff or state officials) need macro-level data and robust diagnostic tools to support entire communities.\
          **User Interface:** Web-based geospatial dashboards and analytical applications.
 
