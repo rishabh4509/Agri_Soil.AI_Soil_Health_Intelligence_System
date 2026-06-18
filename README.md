@@ -38,6 +38,7 @@ Smart Soil incorporates responsible AI principles to ensure ethical, fair, and t
  **4.** Bees, butterflies, and healthy forests are essential to farming. Preserving biodiversity helps ensure better harvests and             ecological balance.
 
 **How Websites Look Like**
+![image ait](https://github.com/rishabh4509/Smart_Soil.Artifical_Soil_Health_Intelligence_System/blob/57805c4b477808f78831908e21ec4d52b96cb684/Screenshot%202026-06-18%20105947.png)
 
 
 
